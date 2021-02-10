@@ -1,0 +1,2 @@
+C:\Users\bgrib\source\repos\X-X_Exch_triplePolar\QW wave functions\15 nm\WQW=15nm [dZ=0.3]
+end
